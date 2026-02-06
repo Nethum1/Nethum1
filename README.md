@@ -1,3 +1,5 @@
+<p align="center"><picture align="center"><img align="center" src = "https://media1.tenor.com/m/kOhd4kOKp6gAAAAd/axel-johansson-axjo.gif?raw=true" width = 50px></picture></p>
+
 <h1 align="center">Hi 👋, I'm Nethum Vihansith</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -22,7 +24,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">  
+  <img align="center" alt="Coding" width="450" src="https://www.charlotteworks.com/wp-content/uploads/2018/01/automation-animation.gif">  
   </td>
 </tr>
 </table>
