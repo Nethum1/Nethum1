@@ -43,7 +43,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nethum1"><img alt="Nethum's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nethum1&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/nethum1"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nethum1&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <h3 align="center">Languages and Tools:</h3>
