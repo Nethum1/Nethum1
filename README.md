@@ -30,7 +30,7 @@
 </table>
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nethum1">
