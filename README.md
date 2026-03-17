@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://media1.tenor.com/m/kOhd4kOKp6gAAAAd/axel-johansson-axjo.gif?raw=true" width = 50px></picture></p>
 
-<h1 align="center">Hi , I'm Nethum Vihansith</h1>
+<h1 align="center">I'm Nethum Vihansith</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+undergraduate+student+at+USJ;Specializing+in;Robotics+|+IoT+|+Automation;Embedded+Systems;PCB+Design;AI+%26+ML;Always+learning+new+things&center=true&width=500&height=50">
