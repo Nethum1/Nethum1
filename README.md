@@ -15,7 +15,7 @@
   
 - 🧑‍🎓 I’m an Undergraduate at **University of Sri Jayewardenapura**
   
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **Signal Processing**
   
 - 💬 Ask me about **Arduino | IOT | PLC**
   
