@@ -15,7 +15,11 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **University of Sri Jayewardenapura**
 
+- 🔭 I’m currently working on [CARDIOSCOPE](https://github.com/Nethum1/CARDIOSCOPE-Digital-Stethoscope)
+
 - 🌱 I'm currently learning **Signal Processing**
+
+-  👨‍💻 All of my projects are available at [https://nethum1.github.io/H.A.N-Vihansith-Portfolio/](https://nethum1.github.io/H.A.N-Vihansith-Portfolio/)
 
 - 💬 Ask me about **Arduino | IOT | PLC**
 
