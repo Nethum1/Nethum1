@@ -19,8 +19,6 @@
 
 - 🌱 I'm currently learning **Signal Processing**
 
-- 👨‍💻 All of my projects are available at [https://nethum1.github.io/H.A.N-Vihansith-Portfolio/](https://nethum1.github.io/H.A.N-Vihansith-Portfolio/)
-
 - 💬 Ask me about **Arduino | IoT | PLC | Automation**
 
 - 📫 How to reach me **nehtumviahnsith070@gmail.com**
