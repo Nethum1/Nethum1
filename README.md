@@ -15,13 +15,13 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **University of Sri Jayewardenapura**
 
-- 🔭 I’m currently working on [CARDIOSCOPE](https://github.com/Nethum1/CARDIOSCOPE-Digital-Stethoscope)
+- 🔭 I'm currently working on [CARDIOSCOPE](https://github.com/Nethum1/CARDIOSCOPE-Digital-Stethoscope)
 
 - 🌱 I'm currently learning **Signal Processing**
 
--  👨‍💻 All of my projects are available at [https://nethum1.github.io/H.A.N-Vihansith-Portfolio/](https://nethum1.github.io/H.A.N-Vihansith-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nethum1.github.io/H.A.N-Vihansith-Portfolio/](https://nethum1.github.io/H.A.N-Vihansith-Portfolio/)
 
-- 💬 Ask me about **Arduino | IOT | PLC**
+- 💬 Ask me about **Arduino | IoT | PLC | Automation**
 
 - 📫 How to reach me **nehtumviahnsith070@gmail.com**
 
@@ -35,7 +35,15 @@
 ---
 
 ### GitHub Analytics
-<p align="center"><a href="https://github.com/nethum1"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nethum1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nethum1&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/></a></p>
+<p align="center">
+  <a href="https://github.com/nethum1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nethum1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nethum1&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethum1&" alt="nethum1"/>
+</p>
 
 ---
 
@@ -44,10 +52,19 @@
 <td align="center"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+<td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
+<td align="center"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+<td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+<td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
+<td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
 </tr></table>
 
@@ -57,4 +74,6 @@
 <table align="center"><tr>
 <td align="center"><a href="https://linkedin.com/in/nethum-vihansith" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a></td>
 <td align="center"><a href="https://fb.com/nethum-vihansith" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a></td>
+<td align="center"><a href="https://instagram.com/nethum_v" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a></td>
+<td align="center"><a href="https://www.youtube.com/c/projectone" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a></td>
 </tr></table>
