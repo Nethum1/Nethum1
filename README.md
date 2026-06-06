@@ -14,13 +14,9 @@
 <td width="50%" align="left">
 
 - 🧑‍🎓 I'm an Undergraduate at **University of Sri Jayewardenapura**
-
 - 🔭 I'm currently working on [CARDIOSCOPE](https://github.com/Nethum1/CARDIOSCOPE-Digital-Stethoscope)
-
 - 🌱 I'm currently learning **Signal Processing**
-
 - 💬 Ask me about **Arduino | IoT | PLC | Automation**
-
 - 📫 How to reach me **nehtumviahnsith070@gmail.com**
 
 </td>
@@ -39,9 +35,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nethum1&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nethum1&theme=tokyonight&hide_border=true&background=080c1e&stroke=4facfe&ring=00f2fe&fire=f5576c&currStreakLabel=4facfe"
-                            alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Nethum1&theme=tokyonight&hide_border=true&ring=00f2fe&fire=f5576c&currStreakLabel=4facfe"
+       alt="GitHub Streak">
 </p>
 
 ---
