@@ -14,7 +14,7 @@
 <td width="50%" align="left">
 
 - 🧑‍🎓 I'm an Undergraduate at **University of Sri Jayewardenapura**
-- 🔭 I'm currently working on [CARDIOSCOPE](https://github.com/Nethum1/CARDIOSCOPE-Digital-Stethoscope)
+- 🔭 I'm currently working on [NeuroFlex](https://github.com/Nethum1/-NeuroFlex-)
 - 🌱 I'm currently learning **Signal Processing**
 - 💬 Ask me about **Arduino | IoT | PLC | Automation**
 - 📫 How to reach me **nehtumviahnsith070@gmail.com**
