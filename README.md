@@ -15,9 +15,9 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **University of Sri Jayewardenapura**
 - 🔭 I'm currently working on [NeuroFlex](https://github.com/Nethum1/-NeuroFlex-)
-- 🌱 I'm currently learning **Signal Processing**
+- 🌱 I'm currently learning **Motor Controling**
 - 💬 Ask me about **Arduino | IoT | PLC | Automation**
-- 📫 How to reach me **nehtumviahnsith070@gmail.com**
+- 📫 How to reach me **vihansithnethum@gmail.com**
 
 </td>
 <td width="50%" align="center">
